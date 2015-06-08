@@ -1,0 +1,2 @@
+# Clocket
+Time managing app.
